@@ -1,14 +1,14 @@
 BadBot: 3D Combat Drone Prototype
 This project is a technical demonstration of a high-speed, 3D combat drone prototype developed in Unreal Engine 5. The prototype showcases fluid flight-based movement, projectile combat systems, and AI-driven enemy encounters within a stylized environment.
 
- Technical Implementation
+Technical Implementation
 Engine: Unreal Engine 5.
 
 Core Systems: 6-DOF Movement, Projectile Physics, Damage & Health Systems.
 
 Visual Elements: Stylized Japanese-inspired environment with dynamic lighting and particle-based effects.
 
- Key Features
+Key Features
 1. Advanced Drone Controller
 The player controls a spherical combat drone capable of versatile navigation through complex terrain.
 
